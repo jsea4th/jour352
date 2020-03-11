@@ -1,0 +1,27 @@
+
+<link href="stylesheets.css" rel="stylesheet" type="text.css" />
+
+h1 {
+  font-family: "Sans serif" , Times, serif;
+  font-size: 24px
+}
+
+h3 {
+  font-family: "Sans serif"
+  font-size: 24px
+}
+
+p {
+  font-family: sans-serif , helvetica , Arial , generic sans-serif;
+  font-size: 16px
+
+}
+
+wrapper {
+  margin-right: auto;
+
+  max-width: 900px;
+
+  padding-right: 10px;
+  padding-left:  10px;
+}
