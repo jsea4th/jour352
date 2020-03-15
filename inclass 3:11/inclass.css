@@ -1,0 +1,51 @@
+
+h1 {
+  font-style: bold;
+  font-color: blue;
+  }
+
+.container {
+  display: flex;
+  flex-direction: row;
+  flex-basis: auto;
+  flex-wrap: nowrap;
+  text-align: center;
+}
+
+#pink {
+  background-color: #F5C6D6;
+  min-height: 100px;
+  margin: 10px auto;
+
+}
+
+#pinker , #pinker1 , #pinker2 , #pinker3 {
+  background-color: #EE2E84;
+  min-height: 200px;
+  margin: 10px;
+  max-width: 22%
+}
+
+
+#blue , #blue2 {
+  background-color: #85CFD8;
+  min-height: 200px;
+  margin: 10px auto;
+  max-width: 40%
+  flex-basis: 400px;
+
+}
+
+#green {
+  background-color: #8DC63F;
+  min-height: 200px;
+  margin:10px 10px
+
+}
+
+#orange {
+  background-color: #E76E34;
+  height: 200px;
+  margin: 10px auto;
+
+}
