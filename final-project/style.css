@@ -1,0 +1,54 @@
+
+
+h1 {
+  font-style: bold;
+  color: #000000 ;
+}
+
+h4 {
+  font-style: italic;
+}
+
+body {
+  margin: 100px;
+  padding: inherit;
+}
+
+.copyright {
+  text-align: center;
+}
+
+img {
+  text-align: center;
+}
+
+.head {
+  text-align: left;
+}
+
+.mdlogo {
+  display:inline-grid;
+  flex: 200px ;
+  padding: 10px ;
+  text-align:right;
+  font-size: 8px;
+  font-style: italic;
+}
+
+.mdlogo2 {
+  display:inline-grid;
+  padding: 20px ;
+  text-align:left;
+  font-size: 8px;
+  font-style: italic;
+}
+
+.graphic1 {
+  text-align: center;
+  align-content: center;
+}
+
+.graphic2 {
+text-align: center;
+align-content: center;
+}
