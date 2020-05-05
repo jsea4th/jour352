@@ -28,27 +28,30 @@ img {
 
 .mdlogo {
   display:inline-grid;
-  flex: 200px ;
+  float: right;
   padding: 10px ;
-  text-align:right;
+  text-align:center;
   font-size: 8px;
   font-style: italic;
 }
 
 .mdlogo2 {
-  display:inline-grid;
-  padding: 20px ;
-  text-align:left;
+  width: 1000px;
   font-size: 8px;
   font-style: italic;
+
 }
 
 .graphic1 {
-  text-align: center;
-  align-content: center;
+  align-content: left;
+  width: auto;
 }
 
 .graphic2 {
-text-align: center;
-align-content: center;
+  align-content: left;
+  width: auto;
+}
+
+.a {
+  color: #FF0000; 
 }
