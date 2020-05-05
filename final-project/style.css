@@ -12,6 +12,7 @@ h4 {
 body {
   margin: 100px;
   padding: inherit;
+  font-family: times;
 }
 
 .copyright {
@@ -31,13 +32,13 @@ img {
   float: right;
   padding: 10px ;
   text-align:center;
-  font-size: 8px;
+  font-size: 12px;
   font-style: italic;
 }
 
 .mdlogo2 {
   width: 1000px;
-  font-size: 8px;
+  font-size: 12px;
   font-style: italic;
 
 }
@@ -50,8 +51,4 @@ img {
 .graphic2 {
   align-content: left;
   width: auto;
-}
-
-.a {
-  color: #FF0000; 
 }
